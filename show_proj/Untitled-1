@@ -1,0 +1,29 @@
+  cmd + space
+  vs [enter] (vscode)
+  cmd + alt + t
+  cd Doc [tab] Py [tab]
+  cmd p 
+  > (shift+IO) interpr [enter]
+  välj python3 [enter]
+  cmd+shift+e
+  (om inte redan bland filer: shift f)
+  shift+n
+  döp: bubblesort.py
+  cmd+shift+e
+  shift+n
+  tasks.json
+  
+  skriv:
+  {
+    "taskName":"run code",
+    "command": "python3"
+    "args":[
+      " bubblesort.py"
+    ]
+    "presentation": {
+      "focus" : true
+    }
+  }
+
+  cmd+shift+b
+  
